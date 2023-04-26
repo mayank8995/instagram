@@ -4,6 +4,7 @@ import 'firebase/compat/auth';
 // import {seedDatabase} from '../seed';
 // call seed file sed file only once
 
+
 const config = {
     apiKey: "AIzaSyD5k3bl8HyzjmwSX3Pd5alntl8f8mdVCQc",
     authDomain: "instagram-clone-react-3d149.firebaseapp.com",
